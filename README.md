@@ -7,4 +7,4 @@
 
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
 
-	The Comparator constructor call is on line 16 in the main. The class definition for the Comparator is in the override method immediately below the Comparator constructor call and in the Java Comparator library.
+	The Comparator constructor call is on line 16 in the main. The class definition for the Comparator is in the override method immediately below the Comparator constructor call and in the Java Collections library.
